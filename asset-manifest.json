@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/djatwork/static/css/main.e6c13ad2.css",
     "main.js": "/djatwork/static/js/main.f40ca7be.js",
     "static/js/787.67522138.chunk.js": "/djatwork/static/js/787.67522138.chunk.js",
     "index.html": "/djatwork/index.html",
-    "main.e6c13ad2.css.map": "/djatwork/static/css/main.e6c13ad2.css.map",
     "main.f40ca7be.js.map": "/djatwork/static/js/main.f40ca7be.js.map",
     "787.67522138.chunk.js.map": "/djatwork/static/js/787.67522138.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
     "static/js/main.f40ca7be.js"
   ]
 }
